@@ -16,6 +16,7 @@ body {
     border: 5px solid #fff;
     border-radius: 50%;
     background: radial-gradient(circle, #444, #222);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
   }
   .center-numbers{
     transform-origin: center;
